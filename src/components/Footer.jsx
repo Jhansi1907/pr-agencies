@@ -82,9 +82,9 @@ export default function Footer() {
               <svg viewBox="0 0 36 36" aria-hidden="true"><path d="M32 5 4 15l11 4 4 11 13-25Z" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinejoin="round" /><path d="m15 19 17-14" fill="none" stroke="currentColor" strokeWidth="2.5" /></svg>
               <span>Reach Us</span>
             </h4>
-            <a href="mailto:pragathidas20@gmail.com" className="foot-contact-link">
+            <a href="mailto:pragencies27@gmail.com" className="foot-contact-link">
               <span className="foot-icon"><svg viewBox="0 0 24 24"><rect x="2.5" y="4.5" width="19" height="15" rx="2" fill="none" stroke="currentColor" strokeWidth="1.8" /><path d="m3.5 7 8.5 6 8.5-6" fill="none" stroke="currentColor" strokeWidth="1.8" /></svg></span>
-              <span>pragathidas20@gmail.com</span>
+              <span>pragencies27@gmail.com</span>
             </a>
             <a href="tel:+918465887595" className="foot-contact-link">
               <span className="foot-icon"><svg viewBox="0 0 24 24"><path d="M6.3 2.8 9.6 8l-2 2.1c1.2 2.5 3.5 4.7 6.1 6l2-2.1 5.3 3.3c.7.4.9 1.3.5 2l-1.4 2.3c-.4.6-1.1.9-1.8.8C10.1 21.4 2.6 13.9 1.6 5.7c-.1-.7.2-1.4.8-1.8l2.3-1.4c.7-.4 1.6-.2 1.6.3Z" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" /></svg></span>
