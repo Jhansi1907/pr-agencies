@@ -82,7 +82,7 @@ export default function About() {
 
     <section className="sec about-founder"><div className="wrap about-founder__layout">
       <Reveal variant="slide-left"><figure className="about-founder__portrait">
-        <Img src="/images/about/naresh-gupta.jpeg" alt="Naresh Gupta, founder of PR Agencies" />
+        <Img src="/images/about/naresh-gupta-founder.png" alt="Naresh Gupta, founder of PR Agencies" />
         <figcaption className="about-founder__caption"><span>Founder</span><strong>Naresh Gupta</strong></figcaption>
       </figure></Reveal>
       <Reveal variant="slide-right" delay={.15}><div className="about-founder__content">

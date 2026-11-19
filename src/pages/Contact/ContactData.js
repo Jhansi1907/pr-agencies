@@ -19,10 +19,10 @@ export const CONTACT_INFO = {
 }
 
 export const SOCIAL_LINKS = [
-  { name: 'Instagram', href: '#!' },
-  { name: 'LinkedIn', href: '#!' },
-  { name: 'YouTube', href: '#!' },
-  { name: 'Facebook', href: '#!' },
+  { name: 'Instagram', href: 'https://www.instagram.com/pragencieshyderabad?hvrq=MTl4eGVncjNzejAyZg==' },
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/company/pragencieshyd/' },
+  { name: 'YouTube', href: 'https://youtube.com/@pragencies-x8c?si=ni5WSGJaLdp984wE' },
+  { name: 'Facebook', href: 'https://www.facebook.com/share/1CbpHqFckU/?mibextid=wwXIfr' },
 ]
 
 export const FORM_FIELDS = {

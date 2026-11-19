@@ -525,14 +525,104 @@
 }
 
 @media(max-width:520px) {
+    .about-page .about-founder,
+    .about-page .about-story,
+    .about-page .about-advantage,
+    .about-page .about-purpose {
+        padding: 56px 0
+    }
+
+    .about-founder__layout {
+        gap: 28px
+    }
+
+    .about-founder__portrait {
+        max-width: 360px;
+        aspect-ratio: 4/5
+    }
+
+    .about-founder__portrait img {
+        object-position: center 20%
+    }
+
+    .about-founder__caption {
+        right: 14px;
+        bottom: 14px;
+        left: 14px;
+        padding: 14px 16px
+    }
+
+    .about-founder__content {
+        min-width: 0
+    }
+
+    .about-founder__name {
+        font-size: clamp(30px, 8vw, 40px);
+        line-height: 1.05;
+        overflow-wrap: anywhere
+    }
+
+    .about-founder__role {
+        margin-bottom: 16px;
+        font-size: 16px
+    }
+
+    .about-founder__bio,
+    .about-founder__content .about-founder__bio.scroll-reveal {
+        font-size: 15px;
+        line-height: 1.65
+    }
+
+    .about-founder__highlights {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+        margin-top: 24px
+    }
+
+    .about-founder__experience,
+    .about-founder__established {
+        min-width: 0;
+        justify-content: center;
+        gap: 8px;
+        padding: 12px
+    }
+
+    .about-founder__experience strong {
+        font-size: 30px
+    }
+
+    .about-founder__experience span {
+        font-size: 12px
+    }
+
+    .about-page-hero__pressure {
+        height: auto;
+        min-height: 90px
+    }
+
+    .about-story__layout {
+        gap: 20px
+    }
+
+    .about-story__title {
+        font-size: clamp(30px, 8vw, 40px);
+        line-height: 1.08
+    }
+
+    .about-story__copy {
+        margin-top: 14px;
+        font-size: 16px
+    }
+
     .about-advantage__grid {
         grid-template-columns: 1fr;
         gap: 14px
     }
 
     .about-advantage__card {
-        min-height: 220px;
-        padding: 22px
+        min-height: 0;
+        padding: 18px
     }
 
     .about-advantage__accent {
@@ -590,6 +680,10 @@
 }
 
 @media(max-width:520px) {
+    .about-purpose__section {
+        gap: 18px
+    }
+
     .about-purpose__heading {
         gap: 8px;
         margin-bottom: 16px

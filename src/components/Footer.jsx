@@ -42,16 +42,16 @@ export default function Footer() {
             </div>
             <p className="foot-tagline">Creative advertising. Strategic media planning.<br />Building stronger brands across every channel.</p>
             <div className="foot-socials" aria-label="Social media links">
-              <a href="#" aria-label="LinkedIn" title="LinkedIn">
+              <a href="https://www.linkedin.com/company/pragencieshyd/" aria-label="LinkedIn" title="LinkedIn" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24"><path d="M5.2 7.6H8v11.2H5.2V7.6Zm1.4-5.3A1.8 1.8 0 1 1 6.6 5.9a1.8 1.8 0 0 1 0-3.6ZM9.8 7.6h2.7v1.5h.1c.4-.7 1.3-1.8 3.1-1.8 3.3 0 3.9 2.2 3.9 5v6.5h-2.9v-5.7c0-1.4 0-3.1-1.9-3.1s-2.1 1.5-2.1 3v5.8H9.8V7.6Z" /></svg>
               </a>
-              <a href="#" aria-label="Instagram" title="Instagram">
+              <a href="https://www.instagram.com/pragencieshyderabad?hvrq=MTl4eGVncjNzejAyZg==" aria-label="Instagram" title="Instagram" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24"><rect x="3.2" y="3.2" width="17.6" height="17.6" rx="5" fill="none" stroke="currentColor" strokeWidth="2" /><circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" strokeWidth="2" /><circle cx="17.5" cy="6.7" r="1" /></svg>
               </a>
-              <a href="#" aria-label="YouTube" title="YouTube">
+              <a href="https://youtube.com/@pragencies-x8c?si=ni5WSGJaLdp984wE" aria-label="YouTube" title="YouTube" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24"><path d="M21.5 7.1a2.7 2.7 0 0 0-1.9-1.9C18 4.8 12 4.8 12 4.8s-6 0-7.6.4a2.7 2.7 0 0 0-1.9 1.9A28 28 0 0 0 2 12a28 28 0 0 0 .5 4.9 2.7 2.7 0 0 0 1.9 1.9c1.6.4 7.6.4 7.6.4s6 0 7.6-.4a2.7 2.7 0 0 0 1.9-1.9A28 28 0 0 0 22 12a28 28 0 0 0-.5-4.9ZM10 15V9l5.2 3L10 15Z" /></svg>
               </a>
-              <a href="#" aria-label="Facebook" title="Facebook">
+              <a href="https://www.facebook.com/share/1CbpHqFckU/?mibextid=wwXIfr" aria-label="Facebook" title="Facebook" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24"><path d="M13.7 21v-8h2.7l.4-3.1h-3.1V8c0-.9.3-1.5 1.6-1.5h1.7V3.7c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2H7.6V13h2.7v8h3.4Z" /></svg>
               </a>
             </div>
@@ -86,9 +86,9 @@ export default function Footer() {
               <span className="foot-icon"><svg viewBox="0 0 24 24"><rect x="2.5" y="4.5" width="19" height="15" rx="2" fill="none" stroke="currentColor" strokeWidth="1.8" /><path d="m3.5 7 8.5 6 8.5-6" fill="none" stroke="currentColor" strokeWidth="1.8" /></svg></span>
               <span>pragathidas20@gmail.com</span>
             </a>
-            <a href="tel:+919494887225" className="foot-contact-link">
+            <a href="tel:+918465887595" className="foot-contact-link">
               <span className="foot-icon"><svg viewBox="0 0 24 24"><path d="M6.3 2.8 9.6 8l-2 2.1c1.2 2.5 3.5 4.7 6.1 6l2-2.1 5.3 3.3c.7.4.9 1.3.5 2l-1.4 2.3c-.4.6-1.1.9-1.8.8C10.1 21.4 2.6 13.9 1.6 5.7c-.1-.7.2-1.4.8-1.8l2.3-1.4c.7-.4 1.6-.2 1.6.3Z" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" /></svg></span>
-              <span>+91 9494887225</span>
+              <span>+91 8465887595</span>
             </a>
             <a
               href="https://maps.google.com/maps?q=Shaila+Residency+Mallikarjuna+Nagar+Chintalkunta+LB+Nagar+Hyderabad+Telangana"
@@ -99,7 +99,7 @@ export default function Footer() {
             >
               <span className="foot-icon"><svg viewBox="0 0 24 24"><path d="M20 10c0 5.5-8 11-8 11S4 15.5 4 10a8 8 0 1 1 16 0Z" fill="none" stroke="currentColor" strokeWidth="1.8" /><circle cx="12" cy="10" r="2.5" fill="none" stroke="currentColor" strokeWidth="1.8" /></svg></span>
               <span>
-                Flat no 101, Shaila Residency, Mallikarjuna Nagar, Chintalkunta Check Post, L.B. Nagar, Hyderabad – 500074
+                Flat No. 101, Shaila Residency Mallikarjuna Nagar, Chintalkunta Check Post, L.B. Nagar, Hyderabad – 500074
               </span>
             </a>
           </div>

@@ -440,8 +440,8 @@ footer.foot .foot-developer-credit svg {
   }
 
   footer.foot .cols {
-    grid-template-columns: 1fr;
-    gap: 30px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px 20px;
   }
 
   footer.foot .wrap {
@@ -481,7 +481,12 @@ footer.foot .foot-developer-credit svg {
   }
 
   .foot-column {
-    grid-column: 1;
+    grid-column: auto;
+    min-width: 0;
+  }
+
+  .foot-reach {
+    grid-column: 1 / -1;
   }
 
   footer.foot h4 {
